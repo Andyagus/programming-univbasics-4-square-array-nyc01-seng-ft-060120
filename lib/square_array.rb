@@ -6,6 +6,7 @@ def square_array(numbers)
   while numbers[counter] do
     newarray = numbers[counter]
     counter += 1
+    print newarray
   end
 end
 
