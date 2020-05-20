@@ -7,8 +7,6 @@ def square_array(numbers)
     newarray = numbers[counter]
     counter += 1
   end
-      print newarray
-
 end
 
  
